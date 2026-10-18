@@ -20,13 +20,13 @@ I'm an AI engineer who builds LLM systems that hold up in production: **multi-ag
 | Project | What it is | Highlights |
 |---|---|---|
 | [**DecisionFlow**](https://github.com/KhaledLakhdher/DecisionFlow) | AI business analyst: upload a CSV/Excel, get a star-schema warehouse, KPIs, forecasts and an agent fleet that answers questions | 2-min demo video · Postgres RLS tenant isolation enforced twice · LLM SQL sandboxed in 3 layers · numbers always computed from data, never by the model |
-| [**Nexus AI**](https://github.com/KhaledLakhdher/startup) | Platform for *AI employees*: agents with identity, hierarchical memory and IAM-style permissions | Multi-agent orchestration · live WebSocket monitoring · provider-agnostic model gateway (Anthropic, Gemini, OpenRouter) |
+| [**Nexus AI**](https://github.com/KhaledLakhdher/nexus-ai) | Platform for *AI employees*: agents with identity, hierarchical memory and IAM-style permissions | Multi-agent orchestration · live WebSocket monitoring · provider-agnostic model gateway (Anthropic, Gemini, OpenRouter) |
 | **Hotel Mind** *(built at CTT, private)* | Multilingual hotel search & booking assistant, in production | 9 LangChain/LangGraph agents · 32+ tools · 10 live SOAP services · deterministic critical steps · LangSmith tracing |
-| [**LLM Code Review Evaluation**](https://github.com/KhaledLakhdher/coder_review) | Benchmark of LLM code review on 500 real bugs (BugsInPy) with an LLM-as-judge | A single score overstates capability **~1.8×** (78% localisation vs 43% diagnosis) |
+| [**LLM Code Review Evaluation**](https://github.com/KhaledLakhdher/llm-code-review-eval) | Benchmark of LLM code review on 500 real bugs (BugsInPy) with an LLM-as-judge | A single score overstates capability **~1.8×** (78% localisation vs 43% diagnosis) |
 | [**Steam Player Forecaster (MLOps)**](https://github.com/KhaledLakhdher/steam-player-mlops) | End-to-end MLOps: next-day player-count forecasting | Model registry · drift monitoring · automatic champion/challenger retraining |
 | [**Text-to-SQL with guardrails**](https://github.com/KhaledLakhdher/text-to-sql) | Correctness & safety harness for LLM-generated SQL | Measures how often and *how* the model is wrong · the answer can never be a `DROP TABLE` |
 
-More: [Neapolis](https://github.com/KhaledLakhdher/neapolis_startup) (AI operating platform for accounting firms) · [Freight rate prediction](https://github.com/KhaledLakhdher/exercice) (LightGBM, temporal validation)
+More: [Neapolis](https://github.com/KhaledLakhdher/neapolis) (AI operating platform for accounting firms) · [Freight rate prediction](https://github.com/KhaledLakhdher/freight-rate-prediction) (LightGBM, temporal validation)
 
 ## Stack
 
